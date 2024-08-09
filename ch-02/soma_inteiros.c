@@ -12,7 +12,7 @@ int main(void) {
 
     soma = inteiro1 + inteiro2;
 
-    printf("O resultado da soma é: %d\n", soma);
+    printf("O resultado da soma é: %d\n", *&soma);
 
     return 0;
 }
