@@ -11,7 +11,7 @@ int main(){
     printf("Os números inseridos são, A: %d, B: %d e C: %d.\n", ladoA, ladoB, ladoC);
 
     printf("Vou verificar se eles podem formar os lados de um triângulo.\nUm minuto...");
-    
 
+    
     return 0;
 }
